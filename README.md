@@ -1,1 +1,1 @@
-# terraform-aws-plex
+# Terraform code for plex project
